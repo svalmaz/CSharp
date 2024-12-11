@@ -1,8 +1,20 @@
+
+using ExchangerEDU.DataAccess;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+var configuration = builder.Configuration;
+builder.Services.AddDbContext<ExchangerEduDbContext>(
+	options =>
+	{
+		options.UseSqlServer(
+			configuration.GetConnectionString(nameof(ExchangerEduDbContext)));
+	}
+	);
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
