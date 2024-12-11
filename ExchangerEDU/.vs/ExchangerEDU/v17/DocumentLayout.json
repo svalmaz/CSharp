@@ -3,8 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C# Fullstack\\ExchangerEDU\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64487C09-F626-41FB-9883-2CFBF6B19D3B}|ExchangerEDU\\ExchangerEDU.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c# fullstack\\exchangeredu\\exchangeredu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64487C09-F626-41FB-9883-2CFBF6B19D3B}|ExchangerEDU\\ExchangerEDU.csproj|solutionrelative:exchangeredu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64487C09-F626-41FB-9883-2CFBF6B19D3B}|ExchangerEDU\\ExchangerEDU.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c# fullstack\\exchangeredu\\exchangeredu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64487C09-F626-41FB-9883-2CFBF6B19D3B}|ExchangerEDU\\ExchangerEDU.csproj|solutionrelative:exchangeredu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FBE34F1D-FF17-495F-B29E-60FD007C39D3}|ExchangerEDU.DataAccess\\ExchangerEDU.DataAccess.csproj|c:\\users\\almaz\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c# fullstack\\exchangeredu\\exchangeredu.dataaccess\\models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBE34F1D-FF17-495F-B29E-60FD007C39D3}|ExchangerEDU.DataAccess\\ExchangerEDU.DataAccess.csproj|solutionrelative:exchangeredu.dataaccess\\models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almaz\\AppData\\Local\\SourceServer\\afc99f37b239ca8b7176b842f2b13c7a033d74ce98e3a3d64edbb568c34fcf66\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +25,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserEntity.cs",
               "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C# Fullstack\\ExchangerEDU\\ExchangerEDU.DataAccess\\Models\\UserEntity.cs",
               "RelativeDocumentMoniker": "ExchangerEDU.DataAccess\\Models\\UserEntity.cs",
               "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C# Fullstack\\ExchangerEDU\\ExchangerEDU.DataAccess\\Models\\UserEntity.cs",
               "RelativeToolTip": "ExchangerEDU.DataAccess\\Models\\UserEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T12:55:53.674Z",
+              "WhenOpened": "2024-12-11T12:55:53.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C# Fullstack\\ExchangerEDU\\ExchangerEDU\\Program.cs",
+              "RelativeDocumentMoniker": "ExchangerEDU\\Program.cs",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C# Fullstack\\ExchangerEDU\\ExchangerEDU\\Program.cs",
+              "RelativeToolTip": "ExchangerEDU\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:36:46.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C# Fullstack\\ExchangerEDU\\ExchangerEDU\\appsettings.json",
+              "RelativeDocumentMoniker": "ExchangerEDU\\appsettings.json",
+              "ToolTip": "C:\\Users\\almaz\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C# Fullstack\\ExchangerEDU\\ExchangerEDU\\appsettings.json",
+              "RelativeToolTip": "ExchangerEDU\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T15:23:34.688Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityFrameworkServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\almaz\\AppData\\Local\\SourceServer\\afc99f37b239ca8b7176b842f2b13c7a033d74ce98e3a3d64edbb568c34fcf66\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\afc99f37b239ca8b7176b842f2b13c7a033d74ce98e3a3d64edbb568c34fcf66\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\almaz\\AppData\\Local\\SourceServer\\afc99f37b239ca8b7176b842f2b13c7a033d74ce98e3a3d64edbb568c34fcf66\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\afc99f37b239ca8b7176b842f2b13c7a033d74ce98e3a3d64edbb568c34fcf66\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAFoEAAAAAAAAAAArwGIEAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:44:43.057Z"
             }
           ]
         }
